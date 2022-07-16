@@ -1,5 +1,5 @@
-arg1 = /home/baadalvm/NSS/Lab1/2021MCS2157-assignment-1/INPUT/ciphertext-1.txt
-arg2 =/home/baadalvm/NSS/Lab1/2021MCS2157-assignment-1/INPUT/ciphertext-2.txt
+arg1 = /home/baadalvm/NSS/Lab1/assignment-1/INPUT/ciphertext-1.txt
+arg2 =/home/baadalvm/NSS/Lab1/assignment-1/INPUT/ciphertext-2.txt
 arg3 =
 arg4 =
 
